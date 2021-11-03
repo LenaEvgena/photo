@@ -1,4 +1,4 @@
 # photo
 
-![Image link](https://github.com/lenaevgena/photo/raw/master/img/photo.jpeg)
+![Image link](https://github.com/LenaEvgena/photo/blob/master/img/photo.jpg)
 
